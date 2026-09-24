@@ -1,0 +1,12 @@
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+*.tfplan
+lambda/build/
+lambda/build.zip
+.seed-response.json
+wrk2/
+tfplan
+source
+.terraform.lock.hcl
